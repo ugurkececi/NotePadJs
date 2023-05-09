@@ -1,0 +1,25 @@
+.header{
+text-align: center;
+justify-content: center;
+padding: 15px;
+background-color: aqua; 
+}
+.main{
+    text-align: center;
+    background-color: bisque;
+    padding: 0.2px;
+    text-decoration: none;
+    list-style: none;
+}
+.note{
+ 
+}
+#notes-list{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    list-style: circle;
+    background-color: rgb(255, 242, 0);
+    padding: 25px;
+    margin-top: 15px;
+    text-align: center;
+}
